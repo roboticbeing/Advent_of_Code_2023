@@ -8,3 +8,4 @@ startswith() is a very nice function that searches for a string within a string 
 ```python
   if line[i:].startswith(val):
 ```
+splitlines() is a nice trick so that I don't have to write out split('\n')
